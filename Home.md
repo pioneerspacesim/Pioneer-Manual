@@ -13,14 +13,14 @@
         - Docking
         - Using the autopilot
         - Interstellar travel
-    - Making money
+    - [[Making money]]
         - Buying and selling goods
         - Using the bulletin board
-    - Upgrading your ship
+    - [[Upgrading your ship]]
         - Installing equipment
         - Purchasing a new ship
         - List of upgrades
-    - Fighting
+    - [[Fighting]]
         - Avoiding immediate death
         - Defensive equipment
             - Shields
@@ -30,6 +30,6 @@
             - Using missiles
         - Repairing damage
 - Modifying the game
-    - Installing new models
-    - Installing new missions
-    - Customizing your game
+    - [[Installing new models]]
+    - [[Installing new missions]]
+    - [[Customizing your game]]
