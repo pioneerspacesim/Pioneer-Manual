@@ -8,7 +8,7 @@
 # Table of contents (outline)
 
 - Playing the game
-    - Flying your ship
+    - "Flying your ship":flying_your_ship
         - Taking off
         - Docking
         - Using the autopilot
