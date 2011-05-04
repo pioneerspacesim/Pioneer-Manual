@@ -1,0 +1,11 @@
+This is the development repository for Pioneer Space Sim's wiki.  The files
+here are the markdown files for a GitHub wiki.  Periodic releases from this
+development repository will be pushed into the real wiki on GitHub.
+
+This wiki's purpose is to be the official game manual for the Pioneer space
+sim.  As such, we are looking for content which can be made suitable for
+export to a document format, or even for print.
+
+If you wish to contribute to Pioneer's manual, please feel free to clone
+this repository.  Brian Ronald is the maintainer ("merge monkey").  Please
+feel free to contact him with any questions.
