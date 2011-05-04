@@ -5,7 +5,6 @@
 
 *(a work in progress, natch)*
 
-- - -
 # Table of contents (outline)
 
 - Playing the game
