@@ -8,6 +8,7 @@
 
 -   Playing the game
     -   [[Flying your ship]]
+        -   The console
         -   Taking off
         -   Control
         -   Docking

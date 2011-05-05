@@ -6,6 +6,10 @@ systems. Conventional input methods are used; a keyboard, a
 pointing device and (if the pilot has the necessary implants) a
 neural interface.
 
+## The console
+
+
+
 ## Taking off
 
 Your ship's automated systems make such old-fashioned practices as
