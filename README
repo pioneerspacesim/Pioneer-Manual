@@ -9,3 +9,6 @@ export to a document format, or even for print.
 If you wish to contribute to Pioneer's manual, please feel free to clone
 this repository.  Brian Ronald is the maintainer ("merge monkey").  Please
 feel free to contact him with any questions.
+
+The manual's markdown files are generated from the HTML files in the html
+subdirectory.  Any changes to content should be made to the HTML files.
