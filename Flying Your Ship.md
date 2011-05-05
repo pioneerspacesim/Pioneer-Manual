@@ -39,6 +39,20 @@ The console contains the following features:
         labels
 
 
+### Keyboard shortcuts
+
+If your neural interface or pointing device aren't connected, the
+keyboard provides access to many of the console functions.
+
+
+
+-   The stardreamer can be controlled using **Shift-F1** to
+    **Shift-F5**
+-   The buttons on the left panel can be controlled using **F1** to
+    **F4**
+-   The buttons on the right panel can be controlled using **F5**
+    to **F8**
+
 ## Taking off
 
 Your ship's automated systems make such old-fashioned practices as
