@@ -34,3 +34,6 @@
     - [[Installing new models]]
     - [[Installing new missions]]
     - [[Customizing your game]]
+
+This manual is copyrighted.  Distribution is permitted under the GNU Free
+Documentation License.  See [[COPYING]] for copying conditions.
