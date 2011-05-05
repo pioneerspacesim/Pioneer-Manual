@@ -11,13 +11,15 @@ If the port is an "open-air" port (one not equipped with an elevator, where your
 There are two ways in which you can actively control your ship.  The first of these, "Manual control," gives you the most control, and requires the pilot to use a larger number of controls.  The second, "Set speed," reduces the number of controls but gives a slightly reduced level of control, by having the shipboard computer take over the job of firing individual thrusters.  These modes are switched using the engine control icon, or the F5 key, when in flight.
 
 Manual control requires the use of twelve keys, with the option of also using the mouse.  
-Attitude:
+
+*Attitude:*
 
 * Q and E roll your ship left and right.
 * A and D yaw your ship left and right.
 * W and S pitch your ship up and down.
 * When holding the right hand button on the pointing device, it controls yaw and pitch.
-Thrust:
+
+*Thrust:*
 
 * I engages the main, rear thruster.  This is the most powerful one.
 * K engages the front, retro thruster.
