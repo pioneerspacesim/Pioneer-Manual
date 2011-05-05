@@ -36,4 +36,4 @@
     - [[Customizing your game]]
 
 This manual is copyrighted.  Distribution is permitted under the GNU Free
-Documentation License.  See [[COPYING]] for copying conditions.
+Documentation License.  See [[http://www.gnu.org/licenses/fdl-1.3.html]] for copying conditions.
