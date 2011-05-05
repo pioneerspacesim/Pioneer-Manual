@@ -20,9 +20,24 @@ The console contains the following features:
 
 
 
--   Buttons!
--   A scanner
--   More buttons!
+-   The left hand panel:
+    -   The clock, showing the current time and date
+    -   The Stardreamer time compression device
+    -   Four buttons: View control, Navigation, Information,
+        Communication
+
+-   The central panel, a multi-purpose display containing any of:
+    -   Scanner
+    -   Speed, ambient pressure and altitude indicators
+    -   Missiles, ECM and other equipment controls
+    -   Incoming messages
+
+-   The right hand panel:
+    -   Mode selector for the central panel
+    -   Current condition indicators
+    -   Four buttons: Engine control, Undercarriage, Hyperspace, HUD
+        labels
+
 
 ## Taking off
 
