@@ -14,7 +14,7 @@ Manual control requires the use of twelve keys, with the option of also using th
 
 *Attitude:*
 
-* Q and E roll your ship left and right.
+* **Q** and **E** roll your ship left and right.
 * A and D yaw your ship left and right.
 * W and S pitch your ship up and down.
 * When holding the right hand button on the pointing device, it controls yaw and pitch.
