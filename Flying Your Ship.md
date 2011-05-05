@@ -4,13 +4,16 @@ Your ship is equipped with a computerised flight and navigation
 control system, as well as a complete suite of communications
 systems. Conventional input methods are used; a keyboard, a
 pointing device and (if the pilot has the necessary implants) a
-neural interface. \#\# Taking off Your ship's automated systems
-make such old-fashioned practices as lengthy pre-flight checks
-unnecessary. If the ship is in any way unready for flight, the
-shipboard computer will inform you of this fact. One common reason
-why a ship will refuse to launch is that it does not have the
-minimum number of crew on board. This isn't a problem with a small,
-one-man ship.
+neural interface.
+
+## Taking off
+
+Your ship's automated systems make such old-fashioned practices as
+lengthy pre-flight checks unnecessary. If the ship is in any way
+unready for flight, the shipboard computer will inform you of this
+fact. One common reason why a ship will refuse to launch is that it
+does not have the minimum number of crew on board. This isn't a
+problem with a small, one-man ship.
 
 If your ship is landed at a surface starport, or in an orbital
 spaceport, taking off is as simple as requesting launch clearance
@@ -24,14 +27,18 @@ If the port is an "open-air" port (one not equipped with an
 elevator, where your ship remains on a planet's surface), you will
 have to launch the ship yourself after requesting clearance. This
 is achieved by clicking the launch icon on the right hand side of
-the console, or pressing F5. \#\# Control There are two ways in
-which you can actively control your ship. The first of these,
-"Manual control," gives you the most control, and requires the
-pilot to use a larger number of controls. The second, "Set speed,"
-reduces the number of controls but gives a slightly reduced level
-of control, by having the shipboard computer take over the job of
-firing individual thrusters. These modes are switched using the
-engine control icon, or the F5 key, when in flight.
+the console, or pressing F5.
+
+## Control
+
+There are two ways in which you can actively control your ship. The
+first of these, "Manual control," gives you the most control, and
+requires the pilot to use a larger number of controls. The second,
+"Set speed," reduces the number of controls but gives a slightly
+reduced level of control, by having the shipboard computer take
+over the job of firing individual thrusters. These modes are
+switched using the engine control icon, or the F5 key, when in
+flight.
 
 Manual control requires the use of twelve keys, with the option of
 also using the mouse.
