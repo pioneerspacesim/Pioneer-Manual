@@ -29,9 +29,11 @@ Manual control requires the use of twelve keys, with the option of also using th
 * **O** engages the dorsal thruster, pushing the ship down.
 
 In set speed mode, the thrust keys become inactive.  Instead, the speed of the ship is set by the computer, relative to the nearest significant astrometric body (such as a space station, planet or star).
+
 - The initial set speed is the magnitude of your velocity when the computer takes over.  This means: it's the same speed, but if your ship isn't going forwards, it soon will be.
-- The speed can be set to a higher amount with the Return key.
-- The speed can be set to a lower speed with the Right Shift key.
+- The speed can be set to a higher amount with the **Return** key.
+- The speed can be set to a lower speed with the **Right Shift** key.
+
 ## Docking
 ## Using the autopilot
 ## Interstellar travel
