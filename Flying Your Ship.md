@@ -1,4 +1,6 @@
 # Flying your ship
+Your ship is equipped with a computerised flight and navigation control system, as well as a complete
+suite of communications systems.  Conventional input methods are used; a keyboard, a pointing device and (if the pilot has the necessary implants) a neural interface.
 ## Taking off
 Your ship's automated systems make such old-fashioned practices as lengthy pre-flight checks unnecessary.  If the ship is in any way unready for flight, the shipboard computer will inform you of this fact.
 
