@@ -12,17 +12,17 @@ There are two ways in which you can actively control your ship.  The first of th
 
 Manual control requires the use of twelve keys, with the option of also using the mouse.  
 **Attitude:**
-- **Q** and **E** roll your ship left and right.
-- **A** and **D** yaw your ship left and right.
-- **W** and **S** pitch your ship up and down.
-- When holding the right hand button on the pointing device, it controls yaw and pitch.
+* **Q** and **E** roll your ship left and right.
+* **A** and **D** yaw your ship left and right.
+* **W** and **S** pitch your ship up and down.
+* When holding the right hand button on the pointing device, it controls yaw and pitch.
 **Thrust:**
-- **I** engages the main, rear thruster.  This is the most powerful one.
-- **K** engages the front, retro thruster.
-- **J** engages the right thruster, pushing the ship left.
-- **L** engages the left thruster, pushing the ship right.
-- **U** engages the ventral thruster, pushing the ship up.
-- **O** engages the dorsal thruster, pushing the ship down.
+* **I** engages the main, rear thruster.  This is the most powerful one.
+* **K** engages the front, retro thruster.
+* **J** engages the right thruster, pushing the ship left.
+* **L** engages the left thruster, pushing the ship right.
+* **U** engages the ventral thruster, pushing the ship up.
+* **O** engages the dorsal thruster, pushing the ship down.
 
 In set speed mode, the thrust keys become inactive.  Instead, the speed of the ship is set by the computer, relative to the nearest significant astrometric body (such as a space station, planet or star).
 - The initial set speed is the magnitude of your velocity when the computer takes over.  This means: it's the same speed, but if your ship isn't going forwards, it soon will be.
