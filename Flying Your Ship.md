@@ -8,7 +8,21 @@ neural interface.
 
 ## The console
 
+Your ship comes with the very latest in dynamic console technology.
+The images on the various control panels change with their
+function, which change depending on the context. It is seamlessly
+integrated with the heads-up display, and both your pointing device
+and neural interface can be used to interact with it.
 
+![Ship console (landed)](images/console-landed.png)
+
+The console contains the following features:
+
+
+
+-   Buttons!
+-   A scanner
+-   More buttons!
 
 ## Taking off
 
