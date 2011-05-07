@@ -77,8 +77,8 @@ is achieved by clicking the launch icon on the right hand side of
 the console, or pressing F5.
 
 When you take off, your ship will be under manual control. When
-taking off from a planet, this means that the pilot must take more
-or less immediate action to avoid falling back to the ground.
+taking off from a planet, this means that you must take more or
+less immediate action to avoid falling back to the ground.
 
 ## Control
 
