@@ -66,19 +66,14 @@ reflect which view is active, or if the display isn't showing an
 outside view, which one will become active when you press it:
 
 
-
-![Forward camera/window](images/cam_front.png)
-Forward camera/window
-![Forward camera/window (active)](images/cam_front_on.png)
-Forward camera/window (active)
-![Rear camera](images/cam_rear.png)
-Rear camera
-![Rear camera (active)](images/cam_rear_on.png)
-Rear camera (active)
-![Simulated external view](images/cam_external.png)
-Simulated external view
-![Simulated external view (active)](images/cam_external_on.png)
-Simulated external view (active)"
+<table>
+<tr><td><img src="images/cam_front.png" alt="Forward camera/window" width=30 height=22 /></td><td>Forward camera/window</td><tr>
+<tr><td><img src="images/cam_front_on.png" alt="Forward camera/window (active)" width=30 height=22 /></td><td>Forward camera/window (active)</td><tr>
+<tr><td><img src="images/cam_rear.png" alt="Rear camera" width=30 height=22 /></td><td>Rear camera</td><tr>
+<tr><td><img src="images/cam_rear_on.png" alt="Rear camera (active)" width=30 height=22 /></td><td>Rear camera (active)</td><tr>
+<tr><td><img src="images/cam_external.png" alt="Simulated external view" width=30 height=22 /></td><td>Simulated external view</td><tr>
+<tr><td><img src="images/cam_external_on.png" alt="Simulated external view (active)" width=30 height=22 /></td><td>Simulated external view (active)"</td><tr>
+</table>
 ### Keyboard shortcuts
 
 If your neural interface or pointing device aren't connected, the
