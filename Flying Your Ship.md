@@ -6,6 +6,20 @@ systems. Conventional input methods are used; a keyboard, a
 pointing device and (if the pilot has the necessary implants) a
 neural interface.
 
+## The heads-up display
+
+Your ship's main display, which is a transparent panel mounted
+across your front viewport (or, in an armoured vessel, whichever
+wall or bulkhead is in front of you). Normally, it allows you to
+see whatever is on teh other side of the viewport, but is capable
+of rendering any image, or augmenting the outside view, anywher eon
+its surface. Thus, what appears to be the "windshield" of your
+starship doubles up as an extremely capable HUD, communications
+output device and entertainment centre.
+
+It is not recommended that you use this display to show holovids or
+other distracting material whilst in control of the vessel.
+
 ## The console
 
 Your ship comes with the very latest in dynamic console technology.
@@ -39,6 +53,32 @@ The console contains the following features:
         labels
 
 
+The four buttons on the left hand side of the panel always perform
+the same functions.
+
+The view control button will switch from any view on the main
+display to a view of space, and if pressed repeatedly will switch
+between the fron t view (by turning transparent, or using the front
+camera), the rear view, and a simulated external view, interpolated
+by camera information, sensor information and a computer-generated
+representation of your ship. The button's appearance will change to
+reflect which view is active, or if the display isn't showing an
+outside view, which one will become active when you press it:
+
+
+
+![Forward camera/window](images/cam_front.png)
+Forward camera/window
+![Forward camera/window (active)](images/cam_front_on.png)
+Forward camera/window (active)
+![Rear camera](images/cam_rear.png)
+Rear camera
+![Rear camera (active)](images/cam_rear_on.png)
+Rear camera (active)
+![Simulated external view](images/cam_external.png)
+Simulated external view
+![Simulated external view (active)](images/cam_external_on.png)
+Simulated external view (active)"
 ### Keyboard shortcuts
 
 If your neural interface or pointing device aren't connected, the
