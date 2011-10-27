@@ -1,6 +1,6 @@
-This is the development repository for Pioneer Space Sim's wiki.  The files
-here are the markdown files for a GitHub wiki.  Periodic releases from this
-development repository will be pushed into the real wiki on GitHub.
+This is the development repository for Pioneer Space Sim's manual.  The files
+here are the markdown files which will be made available in this project's own
+wiki.
 
 This wiki's purpose is to be the official game manual for the Pioneer space
 sim.  As such, we are looking for content which can be made suitable for
